@@ -15,5 +15,7 @@ class.name=Login
 #input file name
 file.input=index.html
 
+Sample files can be found at output folder
+
 If you need modification to this project, please mail me to
 chamila.ambahera@gmail.com
