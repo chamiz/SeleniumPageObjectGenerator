@@ -1,5 +1,7 @@
 # SeleniumPageObjectGenerator
 
+Read HowTo file to get information about running project.
+
 This project will extract input , select and anchor elements for html page and creates page object class. Sample Main class will be created to guide you to call page objects. 
 You can change properties using project.properties file.
 
