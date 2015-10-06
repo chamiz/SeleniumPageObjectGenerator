@@ -1,0 +1,14 @@
+Read README file for configuration changes.
+
+Download the source and import using any Java IDE.
+Save html file that you want to create Page Objects with. (Next version of this project will release with converting online htmls too)
+Change the file.input value in project.properties accordingly.
+
+Also changes the values of project.properties accordingly as described in Readme.
+
+Run Main class to create Java classes inside output folder.
+
+If you need modification to this project, please mail me to
+chamila.ambahera@gmail.com
+
+
